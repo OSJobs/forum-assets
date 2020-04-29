@@ -1,0 +1,2 @@
+window.onpopstate=function(o){o.state&&!window.hasOwnProperty("Discourse")&&(window.location=document.location)};
+//# sourceMappingURL=/assets/onpopstate-handler-417528e7d5f1058afdf6002e7606a3f51c2abc04573b72c85a24374a343448f2.js.map
